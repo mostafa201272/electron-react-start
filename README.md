@@ -13,6 +13,13 @@ In the project directory, you can run:
 
 Runs the electron-app and react app in the development mode
 
+### `npm run build-electron`
+
+This command create a production electron file
+`Windows: [.exe] file` - `Linux: [.] file` - `MacOS: [.] file`
+
+Before run this command make sure that you run the `npm run build` to make a production files from react-app.
+
 ### `npm start`
 
 Runs the react-app in the development mode.\

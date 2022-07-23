@@ -23,8 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "build-electron": "electron-packager .",
-    "run-electron": "concurrently \"cross-env BROWSER=none npm start\" \"wait-on http://localhost:3000 && electron .\"",
-    "r-elctron": "electron ."
+    "run-electron": "concurrently \"cross-env BROWSER=none npm start\" \"wait-on http://localhost:3000 && electron .\""
   },
   "eslintConfig": {
     "extends": [
