@@ -3,7 +3,7 @@
 This repo contains a quick start setup for electron-react project.
 
 `Author: Mostafa Mahmoud El-sherbiniy`
-`Website: [https://elsherbiniy.com]`
+`Website: [https://elsherbiniy.com](https://elsherbiniy.com)`
 
 ## Available Scripts
 
